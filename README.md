@@ -8,3 +8,4 @@ Collections of simple flow matching examples
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ToelUl/simple-flow-matching-examples/blob/main/Flow_Matching_Tutorial_2.ipynb) **Tutorial 2**
 
+[QR Code to Open in Colab](colab_qr_codes/Tutorial_2_colab_qr.png) **Tutorial 2**
